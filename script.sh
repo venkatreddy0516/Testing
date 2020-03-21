@@ -9,3 +9,5 @@ else
 echo "$i is ODD Number except if it is zero"
 fi
 done
+
+##End of the script
